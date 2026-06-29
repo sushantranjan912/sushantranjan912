@@ -57,13 +57,13 @@ An Operating System-level engineering project focused on developing a secure, hi
 ## 🧠 Coding Platforms
 
 <p align="center">
-  <!-- Dynamic LeetCode Badges & Profile Card -->
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=sushant_0912&theme=dark" alt="LeetCode Badges" height="150" />
-  <img src="https://leetcode-stats-github.vercel.app/api?username=sushant_0912&theme=dark" alt="LeetCode Stats" height="150" />
+  <!-- Working Dynamic LeetCode Badge Showcase -->
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=sushant_0912&theme=dark" alt="LeetCode Badges" height="180" />
 </p>
 
 <p align="center">
-  <!-- CodeChef & Codeforces Direct Portals -->
+  <!-- Clean, Unified Symmetrical Profile Badges -->
+  <a href="https://leetcode.com/u/sushant_0912/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-User_Profile-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
   <a href="https://www.codechef.com/users/sushant_0912" target="_blank"><img src="https://img.shields.io/badge/CodeChef-User_Profile-5B4636?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/sushantranjan219" target="_blank"><img src="https://img.shields.io/badge/Codeforces-User_Profile-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
 </p>
