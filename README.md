@@ -56,7 +56,7 @@ An Operating System-level engineering project focused on developing a secure, hi
 
 ## 🧠 Coding Platforms
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sushant_0912/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sushant_0912/) [![CodeChef](https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/sushant_0912)
 
 ---
 
