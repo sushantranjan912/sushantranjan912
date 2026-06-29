@@ -56,13 +56,17 @@ An Operating System-level engineering project focused on developing a secure, hi
 
 ## 🧠 Coding Platforms
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sushant_0912/) [![CodeChef](https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/sushant_0912)
+<p align="center">
+  <!-- Dynamic LeetCode Badges & Profile Card -->
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=sushant_0912&theme=dark" alt="LeetCode Badges" height="150" />
+  <img src="https://leetcode-stats-github.vercel.app/api?username=sushant_0912&theme=dark" alt="LeetCode Stats" height="150" />
+</p>
 
----
-
-## 🔥 GitHub Streak
-
-![Streak Stats](https://streak-stats.demolab.com?user=sushantranjan912&theme=github-dark&hide_border=true)
+<p align="center">
+  <!-- CodeChef & Codeforces Direct Portals -->
+  <a href="https://www.codechef.com/users/sushant_0912" target="_blank"><img src="https://img.shields.io/badge/CodeChef-User_Profile-5B4636?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/sushantranjan219" target="_blank"><img src="https://img.shields.io/badge/Codeforces-User_Profile-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
+</p>
 
 ---
 
