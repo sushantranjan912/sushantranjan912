@@ -54,6 +54,12 @@ An Operating System-level engineering project focused on developing a secure, hi
 
 ---
 
+## 🧠 Coding Platforms
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sushant_0912/)
+
+---
+
 ## 🔥 GitHub Streak
 
 ![Streak Stats](https://streak-stats.demolab.com?user=sushantranjan912&theme=github-dark&hide_border=true)
