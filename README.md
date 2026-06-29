@@ -4,8 +4,6 @@
 
 Building scalable web applications • Solving coding problems • Learning every day 🚀
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;C%2B%2B+%7C+Java+%7C+JavaScript;Node.js+%7C+Express.js+%7C+MongoDB;Data+Structures+%26+Algorithms;Always+Learning+New+Things+🚀&cache_bust=1)
-
 ---
 
 ## 👨‍💻 About Me
@@ -21,16 +19,16 @@ Building scalable web applications • Solving coding problems • Learning ever
 ## 🛠 Tech Stack
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,java,js,mysql&cache_bust=1)
+![Languages](https://skillicons.dev/icons?i=c,cpp,java,js,mysql)
 
 ### Frontend
-![Frontend](https://skillicons.dev/icons?i=html,css,js&cache_bust=1)
+![Frontend](https://skillicons.dev/icons?i=html,css,js)
 
 ### Backend & Database
-![Backend & DB](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&cache_bust=1)
+![Backend & DB](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
 
 ### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode&cache_bust=1)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
 ---
 
@@ -56,23 +54,16 @@ An Operating System-level engineering project focused on developing a secure, hi
 
 ---
 
-## 📊 GitHub Stats
-
-![Sushant's Stats](https://github-readme-stats.vercel.app/api?username=sushantranjan912&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_bust=1) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantranjan912&layout=compact&theme=github_dark&hide_border=true&cache_bust=1)
-
----
-
 ## 🔥 GitHub Streak
 
-![Streak Stats](https://streak-stats.demolab.com?user=sushantranjan912&theme=github-dark&hide_border=true&cache_bust=1)
+![Streak Stats](https://streak-stats.demolab.com?user=sushantranjan912&theme=github-dark&hide_border=true)
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&cache_bust=1)](https://linkedin.com/in/sushant-ranjan-7b9404321)
-[![Email](https://skillicons.dev/icons?i=gmail&cache_bust=1)](mailto:sushantranjan219@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sushant-ranjan-7b9404321)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:sushantranjan219@gmail.com)
 
 ---
 
