@@ -59,8 +59,6 @@ An Operating System-level engineering project focused on developing a secure, hi
 <p align="center">
   <!-- Dynamic LeetCode Badge Showcase -->
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=sushant_0912&theme=dark" alt="LeetCode Badges" height="180" />
-  <!-- Dynamic CodeChef Star/Rank Card -->
-  <img src="https://codechef-api.vercel.app/sushant_0912" alt="CodeChef Stats" height="180" />
 </p>
 
 <p align="center">
