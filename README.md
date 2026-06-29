@@ -8,9 +8,7 @@ Full Stack Developer • C++ Programmer • DSA Enthusiast
 Building scalable web applications • Solving coding problems • Learning every day 🚀
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;C%2B%2B+%7C+Java+%7C+JavaScript;Node.js+%7C+Express.js+%7C+MongoDB;Data+Structures+%26+Algorithms;Always+Learning+New+Things+🚀" alt="Typing SVG"/>
-</p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;C%2B%2B+%7C+Java+%7C+JavaScript;Node.js+%7C+Express.js+%7C+MongoDB;Data+Structures+%26+Algorithms;Always+Learning+New+Things+🚀" alt="Typing SVG"/></p>
 
 ---
 
@@ -27,24 +25,16 @@ Building scalable web applications • Solving coding problems • Learning ever
 ## 🛠 Tech Stack
 
 ### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,mysql" />
-</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=c,cpp,java,js,mysql" /></p>
 
 ### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=html,css,js" /></p>
 
 ### Backend & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /></p>
 
 ### Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode" /></p>
 
 ---
 
@@ -85,31 +75,21 @@ Building scalable web applications • Solving coding problems • Learning ever
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sushantranjan912&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Sushant's Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantranjan912&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
-</p>
+<p align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=sushantranjan912&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Sushant's Stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantranjan912&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" /></p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sushantranjan912&theme=github-dark&hide_border=true" alt="Streak Stats"/>
-</p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=sushantranjan912&theme=github-dark&hide_border=true" alt="Streak Stats" /></p>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/sushant-ranjan-7b9404321" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:sushantranjan219@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email"/>
-</a>
+<a href="https://linkedin.com/in/sushant-ranjan-7b9404321" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/></a>
+<a href="mailto:sushantranjan219@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email"/></a>
 </p>
 
 ---
