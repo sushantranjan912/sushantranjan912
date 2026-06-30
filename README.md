@@ -36,7 +36,7 @@ Building scalable web applications • Solving coding problems • Learning ever
 
 | 🔹 FocusGuard Pro | 🔹 Personal Training Management System |
 | :--- | :--- |
-| A specialized Chrome Extension designed to optimize deep work focus by dynamically restricting distracting domains and boosting execution productivity. | A full-stack architecture built to manage organizational trainer assignments, active memberships, dynamic workout programming, and personal metric progress. |
+| A specialized Chrome Extension designed to optimize deep work focus by dynamically restricting distracting domains and boosting execution productivity. | Developed a Full Stack Learning Management System where users can enroll in domain-specific courses, complete quizzes, download certificates upon completion, and submit course feedback. The platform features secure authentication, responsive design, and efficient course management to provide a seamless online learning experience.. |
 | **Tech Stack:** `HTML` • `CSS` • `JavaScript` | **Tech Stack:** `Node.js` • `Express.js` • `MongoDB` • `JS` |
 
 ### 🔹 User-Friendly System Call Interface for Enhanced Security
